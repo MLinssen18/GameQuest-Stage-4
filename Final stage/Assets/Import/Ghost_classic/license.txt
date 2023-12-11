@@ -1,0 +1,11 @@
+Model Information:
+* title:	Ghost classic
+* source:	https://sketchfab.com/3d-models/ghost-classic-f02308be0bd74ee99aeffef7eb41e170
+* author:	skalson (https://sketchfab.com/skalson)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Ghost classic" (https://sketchfab.com/3d-models/ghost-classic-f02308be0bd74ee99aeffef7eb41e170) by skalson (https://sketchfab.com/skalson) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

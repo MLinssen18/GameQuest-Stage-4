@@ -1,0 +1,11 @@
+Model Information:
+* title:	Rock Pile
+* source:	https://sketchfab.com/3d-models/rock-pile-50014ed9f1494d0c9408fdd4347fa552
+* author:	Amy (https://sketchfab.com/uouoamy)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Rock Pile" (https://sketchfab.com/3d-models/rock-pile-50014ed9f1494d0c9408fdd4347fa552) by Amy (https://sketchfab.com/uouoamy) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

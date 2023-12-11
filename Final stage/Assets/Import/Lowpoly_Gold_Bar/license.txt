@@ -1,0 +1,11 @@
+Model Information:
+* title:	Lowpoly Gold Bar
+* source:	https://sketchfab.com/3d-models/lowpoly-gold-bar-03a614bbd25a41cba8306c36089901e4
+* author:	l0wpoly (https://sketchfab.com/l0wpoly)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Lowpoly Gold Bar" (https://sketchfab.com/3d-models/lowpoly-gold-bar-03a614bbd25a41cba8306c36089901e4) by l0wpoly (https://sketchfab.com/l0wpoly) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

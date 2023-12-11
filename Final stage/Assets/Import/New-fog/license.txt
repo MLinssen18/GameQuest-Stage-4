@@ -1,0 +1,11 @@
+Model Information:
+* title:	New-fog
+* source:	https://sketchfab.com/3d-models/new-fog-8a7b5a09e4af422297b3251f579b7ce1
+* author:	Yena Park (https://sketchfab.com/yenaprk105)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "New-fog" (https://sketchfab.com/3d-models/new-fog-8a7b5a09e4af422297b3251f579b7ce1) by Yena Park (https://sketchfab.com/yenaprk105) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

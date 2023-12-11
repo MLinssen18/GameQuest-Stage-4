@@ -1,0 +1,11 @@
+Model Information:
+* title:	Satan's Stones
+* source:	https://sketchfab.com/3d-models/satans-stones-2af653835348423cabb151a77b108777
+* author:	Jackson Page (https://sketchfab.com/jacksonkpage)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Satan's Stones" (https://sketchfab.com/3d-models/satans-stones-2af653835348423cabb151a77b108777) by Jackson Page (https://sketchfab.com/jacksonkpage) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

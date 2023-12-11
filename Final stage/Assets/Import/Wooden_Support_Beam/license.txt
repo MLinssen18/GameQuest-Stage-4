@@ -1,0 +1,11 @@
+Model Information:
+* title:	Wooden Support Beam
+* source:	https://sketchfab.com/3d-models/wooden-support-beam-93e44ade0d8548d3afcd5c2ce01203c8
+* author:	Cianon (https://sketchfab.com/Cianon)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Wooden Support Beam" (https://sketchfab.com/3d-models/wooden-support-beam-93e44ade0d8548d3afcd5c2ce01203c8) by Cianon (https://sketchfab.com/Cianon) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

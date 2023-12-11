@@ -1,0 +1,11 @@
+Model Information:
+* title:	Baradla-barlang Fekete-terem feliratok 2022
+* source:	https://sketchfab.com/3d-models/baradla-barlang-fekete-terem-feliratok-2022-e0a74dd6dc0341de80d839bc8cbd3de8
+* author:	Országos Barlangnyilvántartás (https://sketchfab.com/barlangnyilvantartas)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Baradla-barlang Fekete-terem feliratok 2022" (https://sketchfab.com/3d-models/baradla-barlang-fekete-terem-feliratok-2022-e0a74dd6dc0341de80d839bc8cbd3de8) by Országos Barlangnyilvántartás (https://sketchfab.com/barlangnyilvantartas) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
